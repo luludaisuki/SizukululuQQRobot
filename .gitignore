@@ -222,7 +222,6 @@ bilibilispider-Ver9/lulu videos.txt
 coins.log
 coins.log.bk
 *.log
-*.txt
 *.videos
 qqbot.log*
 bili_cookie copy.json
