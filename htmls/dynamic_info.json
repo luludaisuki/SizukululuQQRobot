@@ -1,0 +1,280 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "item": {
+            "basic": {
+                "comment_id_str": "788368893",
+                "comment_type": 1,
+                "like_icon": {
+                    "action_url": "",
+                    "end_url": "",
+                    "id": 0,
+                    "start_url": ""
+                },
+                "rid_str": "788368893"
+            },
+            "id_str": "840081442618736697",
+            "modules": {
+                "module_author": {
+                    "avatar": {
+                        "container_size": {
+                            "height": 1.375,
+                            "width": 1.375
+                        },
+                        "fallback_layers": {
+                            "is_critical_group": true,
+                            "layers": [
+                                {
+                                    "general_spec": {
+                                        "pos_spec": {
+                                            "axis_x": 0.6875,
+                                            "axis_y": 0.6875,
+                                            "coordinate_pos": 2
+                                        },
+                                        "render_spec": {
+                                            "opacity": 1
+                                        },
+                                        "size_spec": {
+                                            "height": 0.787,
+                                            "width": 0.787
+                                        }
+                                    },
+                                    "layer_config": {
+                                        "is_critical": true,
+                                        "tags": {
+                                            "AVATAR_LAYER": {},
+                                            "GENERAL_CFG": {
+                                                "config_type": 1,
+                                                "general_config": {
+                                                    "web_css_style": {
+                                                        "borderRadius": "50%"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "resource": {
+                                        "res_image": {
+                                            "image_src": {
+                                                "placeholder": 6,
+                                                "remote": {
+                                                    "bfs_style": "widget-layer-avatar",
+                                                    "url": "https://i1.hdslb.com/bfs/face/a6a169ebc03ed22ece55926954711fb0a7903d59.jpg"
+                                                },
+                                                "src_type": 1
+                                            }
+                                        },
+                                        "res_type": 3
+                                    },
+                                    "visible": true
+                                },
+                                {
+                                    "general_spec": {
+                                        "pos_spec": {
+                                            "axis_x": 0.6875,
+                                            "axis_y": 0.6875,
+                                            "coordinate_pos": 2
+                                        },
+                                        "render_spec": {
+                                            "opacity": 1
+                                        },
+                                        "size_spec": {
+                                            "height": 1.375,
+                                            "width": 1.375
+                                        }
+                                    },
+                                    "layer_config": {
+                                        "tags": {
+                                            "PENDENT_LAYER": {}
+                                        }
+                                    },
+                                    "resource": {
+                                        "res_image": {
+                                            "image_src": {
+                                                "remote": {
+                                                    "bfs_style": "widget-layer-avatar",
+                                                    "url": "https://i1.hdslb.com/bfs/garb/item/47e6bf22407fe815214e123c253b905e7cd20ca5.png"
+                                                },
+                                                "src_type": 1
+                                            }
+                                        },
+                                        "res_type": 3
+                                    },
+                                    "visible": true
+                                },
+                                {
+                                    "general_spec": {
+                                        "pos_spec": {
+                                            "axis_x": 0.7560000000000001,
+                                            "axis_y": 0.7726666666666667,
+                                            "coordinate_pos": 1
+                                        },
+                                        "render_spec": {
+                                            "opacity": 1
+                                        },
+                                        "size_spec": {
+                                            "height": 0.41666666666666663,
+                                            "width": 0.41666666666666663
+                                        }
+                                    },
+                                    "layer_config": {
+                                        "tags": {
+                                            "GENERAL_CFG": {
+                                                "config_type": 1,
+                                                "general_config": {
+                                                    "web_css_style": {
+                                                        "background-color": "rgb(255,255,255)",
+                                                        "border": "2px solid rgba(255,255,255,1)",
+                                                        "borderRadius": "50%",
+                                                        "boxSizing": "border-box"
+                                                    }
+                                                }
+                                            },
+                                            "ICON_LAYER": {}
+                                        }
+                                    },
+                                    "resource": {
+                                        "res_image": {
+                                            "image_src": {
+                                                "local": 3,
+                                                "src_type": 2
+                                            }
+                                        },
+                                        "res_type": 3
+                                    },
+                                    "visible": true
+                                }
+                            ]
+                        },
+                        "mid": "1950658"
+                    },
+                    "decorate": {
+                        "card_url": "https://i0.hdslb.com/bfs/garb/7c8f555e9874a20be754c6a6872b0c2901f81bb6.png",
+                        "fan": {
+                            "color": "#4669A9",
+                            "is_fan": true,
+                            "num_str": "000002",
+                            "number": 2
+                        },
+                        "id": 1686069302002,
+                        "jump_url": "https://www.bilibili.com/h5/mall/equity-link/home?navhide=1\u0026item_id=1686069302002\u0026part=card\u0026f_source=garb\u0026from=post\u0026isdiy=0",
+                        "name": "小吉动态卡片粉丝",
+                        "type": 3
+                    },
+                    "face": "https://i1.hdslb.com/bfs/face/a6a169ebc03ed22ece55926954711fb0a7903d59.jpg",
+                    "face_nft": false,
+                    "following": true,
+                    "jump_url": "//space.bilibili.com/1950658/dynamic",
+                    "label": "",
+                    "mid": 1950658,
+                    "name": "早稻叽",
+                    "official_verify": {
+                        "desc": "",
+                        "type": 0
+                    },
+                    "pendant": {
+                        "expire": 0,
+                        "image": "https://i1.hdslb.com/bfs/garb/item/47e6bf22407fe815214e123c253b905e7cd20ca5.png",
+                        "image_enhance": "https://i1.hdslb.com/bfs/garb/item/47e6bf22407fe815214e123c253b905e7cd20ca5.png",
+                        "image_enhance_frame": "",
+                        "name": "早稻叽",
+                        "pid": 55831
+                    },
+                    "pub_action": "投稿了视频",
+                    "pub_location_text": "",
+                    "pub_time": "2023年09月11日 20:25",
+                    "pub_ts": 1694435103,
+                    "type": "AUTHOR_TYPE_NORMAL",
+                    "vip": {
+                        "avatar_subscript": 1,
+                        "avatar_subscript_url": "",
+                        "due_date": 1895760000000,
+                        "label": {
+                            "bg_color": "#FB7299",
+                            "bg_style": 1,
+                            "border_color": "",
+                            "img_label_uri_hans": "",
+                            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/adb599797dd171e2d3d6d012f448b49679258344.png",
+                            "img_label_uri_hant": "",
+                            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/sGu57N6pgK.png",
+                            "label_theme": "ten_annual_vip",
+                            "path": "",
+                            "text": "十年大会员",
+                            "text_color": "#FFFFFF",
+                            "use_img_label": true
+                        },
+                        "nickname_color": "#FB7299",
+                        "status": 1,
+                        "theme_type": 0,
+                        "type": 2
+                    }
+                },
+                "module_dynamic": {
+                    "additional": null,
+                    "desc": {
+                        "rich_text_nodes": [
+                            {
+                                "orig_text": "好久没切片了——给啊叽三连给啊叽三连给啊叽三连！！！",
+                                "text": "好久没切片了——给啊叽三连给啊叽三连给啊叽三连！！！",
+                                "type": "RICH_TEXT_NODE_TYPE_TEXT"
+                            }
+                        ],
+                        "text": "好久没切片了——给啊叽三连给啊叽三连给啊叽三连！！！"
+                    },
+                    "major": {
+                        "archive": {
+                            "aid": "788368893",
+                            "badge": {
+                                "bg_color": "#FB7299",
+                                "color": "#FFFFFF",
+                                "icon_url": null,
+                                "text": "投稿视频"
+                            },
+                            "bvid": "BV1n14y1r7Mz",
+                            "cover": "http://i2.hdslb.com/bfs/archive/8d0b134b7550e07d20e4b09b0945984c45b2e56b.jpg",
+                            "desc": "是亲弟弟！\n\n■ 网易云/Q音：早稻叽\n■ 禁言通知群：473535941\n■ 交流⑤群：539682917\n■ 微博@纯白早稻叽",
+                            "disable_preview": 0,
+                            "duration_text": "02:04",
+                            "jump_url": "//www.bilibili.com/video/BV1n14y1r7Mz/",
+                            "stat": {
+                                "danmaku": "80",
+                                "play": "7.5万"
+                            },
+                            "title": "弟弟被我整得直流汗",
+                            "type": 1
+                        },
+                        "type": "MAJOR_TYPE_ARCHIVE"
+                    },
+                    "topic": null
+                },
+                "module_more": {
+                    "three_point_items": [
+                        {
+                            "label": "举报",
+                            "type": "THREE_POINT_REPORT"
+                        }
+                    ]
+                },
+                "module_stat": {
+                    "comment": {
+                        "count": 193,
+                        "forbidden": false
+                    },
+                    "forward": {
+                        "count": 8,
+                        "forbidden": false
+                    },
+                    "like": {
+                        "count": 6967,
+                        "forbidden": false,
+                        "status": false
+                    }
+                }
+            },
+            "type": "DYNAMIC_TYPE_AV",
+            "visible": true
+        }
+    }
+}
